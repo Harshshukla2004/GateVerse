@@ -3,6 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
+import { Analytics } from '@vercel/analytics/react';
 import { useState, useEffect } from 'react';
 import { 
   Home as HomeIcon, 
@@ -1979,6 +1980,8 @@ export default function App() {
           </div>
         </div>
       </footer>
+      {/* Vercel Web Analytics */}
+      <Analytics />
 
     </div>
   );
