@@ -1,0 +1,6 @@
+{
+  "name": "GATEVerse",
+  "description": "Comprehensive, mobile-first GATE preparation portal for all engineering branches featuring revision notes, syllabus trackers, past PYQs, interactive Mock Tests, and resource vaults.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
